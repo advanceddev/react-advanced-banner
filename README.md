@@ -1,18 +1,18 @@
-###Advanced banner for ReactJS
+#Advanced banner for ReactJS
 
 Simple & responsive banner  for ReactJS with parallax effect.
 
-#####1. Install package
+#1. Install package
 
 `npm i react-advanced-banner`
 
-#####2. Import package
+#2. Import package
 
 ```javascript
 import ReactAdvancedBanner from 'react-advanced-banner';
 ```
 
-#####3. Insert tag with options
+#3. Insert tag with options
 
 ```javascript
 <ReactAdvancedBanner 
@@ -29,7 +29,7 @@ import ReactAdvancedBanner from 'react-advanced-banner';
 />
 ```
 
-#####Options:
+#Options:
 
 **title** - Title of the banner
 **body** - Subtitle / body text of the banner
