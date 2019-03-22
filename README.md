@@ -27,7 +27,7 @@ import ReactAdvancedBanner from 'react-advanced-banner';
             body="Body description"
             image="image_url"
             parallax="true"
-			shadow="0px 0px 44px 0px rgba(0, 0, 0, 0.11)"
+		shadow="0px 0px 44px 0px rgba(0, 0, 0, 0.11)"
             color="#444"
             button="Read More"
             buttonColor="#fff"
