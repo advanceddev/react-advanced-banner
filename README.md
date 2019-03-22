@@ -16,6 +16,12 @@ npm i react-advanced-banner
 ### Import package
 
 ```javascript
+import ReactAdvancedBanner from 'react-advanced-banner';
+```
+
+### Usage
+
+```javascript
 <ReactAdvancedBanner 
             title="Awesome title!"
             body="Body description"
